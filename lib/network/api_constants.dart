@@ -1,0 +1,32 @@
+class ApiConstants {
+ // static const String baseUrl = "https://server3.rvtechnologies.in/Field-Vision/Mobile-Api/public/api/";
+  static const String baseUrl = "https://fieldvision.rvtechnologies.in/api/api/";
+  static const String register="register";
+  static const String verifyOtp="verify-otp";
+  static const String login="login";
+  static const String forgotPassword="forgot-password";
+  static const String logout="logout";
+  static const String profile="profile";
+  static const String updateProfile="update-profile";
+  static const String helpAndSupport="help-and-support";
+  static const String about="about-us";
+  static const String privacyPolicy="privacy-policy";
+  static const String termsAndConditions="terms-and-conditions";
+  static const String setting="setting";
+  static const String updateSetting="update-setting";
+  static const String changePassword="change-password";
+  static const String introPageContents="intro-page-contents";
+  static const String getKioskDetails="get-kiosk-details";
+  static const String verifyKiosk="verify-kiosk";
+  static const String kioskComponents="kiosk-components";
+  static const String newSubmission="new-submission";
+  static const String reviewSubmission="review-submission";
+  static const String submitSubmission="submit-submission";
+  static const String submissions="submissions";
+  static const String deleteSubmission="delete-submission";
+  static const String notifications="notifications";
+  static const String deleteNotification="delete-notification";
+  static const String updateNoRepair="update-no-repair";
+  static const String updateSubmission="update-submission";
+  static const String markNotificationRead="mark-notification-as-read";
+}
